@@ -1,0 +1,13 @@
+*{
+    margin: 0; 
+    padding: 0;
+}
+ .content{
+   width: 100;
+   height: 50;
+   background: rgb(34,193,195);
+background: linear-gradient(0deg, rgba(34,193,195,1) 57%, rgba(45,253,79,0.7679446778711485) 100%);
+text-align: center;
+font-size: 25px;
+font-family: fantasy;
+}
